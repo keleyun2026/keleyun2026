@@ -39,7 +39,7 @@
 
 云端服务 | 科技上网 | 网络技术 | 数字创新
 
-🌐 官方网站：https://www.keleyun.org
+🌐 官方网站：https://keleyun.org
 
 连接科技，畅享数字未来。
 
